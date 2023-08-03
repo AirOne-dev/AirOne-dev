@@ -36,7 +36,7 @@ I'm a digital world explorer, always on the lookout for new technologies and inn
 ### 📈 Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AirOne-dev&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AirOne-dev&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AirOne-dev&layout=compact&theme=radical&hide=html,css,scss)
 
 <br />
 

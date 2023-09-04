@@ -6,6 +6,7 @@
 
 <br />
 
+
 ### 🎓 About Me
 
 I'm a digital world explorer, always on the lookout for new technologies and innovative ways to solve problems. My love for programming has led me to work on various exciting projects, ranging from Arduino to mobile apps.
@@ -13,6 +14,16 @@ I'm a digital world explorer, always on the lookout for new technologies and inn
 🌐 Visit my website: [erwan-martin.fr](https://erwan-martin.fr) | [erwan-martin.com](https://erwan-martin.com)
 
 <br />
+
+
+### 🚀 Recent Projects
+
+1. **[Raycast Random Email Generator](https://github.com/AirOne-dev/raycast-random-email-generator)**: Generate random emails on the fly! 💌
+2. **[SlackMod](https://github.com/AirOne-dev/SlackMod)**: Inject custom JS/CSS in Slack Desktop app with this cool modification. 💬
+3. **[iLucca Birthday CLI](https://github.com/AirOne-dev/ilucca-birthday-cli)**: Never forget a birthday of yout colleagues at work with this handy CLI tool. 🎂
+
+<br />
+
 
 ### 🛠️ Languages and Tools
 
@@ -25,20 +36,11 @@ I'm a digital world explorer, always on the lookout for new technologies and inn
 
 <br />
 
-### 🚀 Recent Projects
 
-1. **[Raycast Random Email Generator](https://github.com/AirOne-dev/raycast-random-email-generator)**: Generate random emails on the fly! 💌
-2. **[SlackMod](https://github.com/AirOne-dev/SlackMod)**: Inject custom JS/CSS in Slack Desktop app with this cool modification. 💬
-3. **[iLucca Birthday CLI](https://github.com/AirOne-dev/ilucca-birthday-cli)**: Never forget a birthday of yout colleagues at work with this handy CLI tool. 🎂
-
-<br />
-
-### 📈 Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AirOne-dev&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AirOne-dev&layout=compact&theme=radical&hide=html,css,scss)
 
 <br />
+
 
 ### 📫 Get in Touch
 
